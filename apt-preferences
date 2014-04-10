@@ -1,0 +1,3 @@
+Package: libvirt-dev
+Pin: release v=1.2.*,a=wheezy-backports
+Pin-Priority: 1001
