@@ -1,4 +1,4 @@
-# docker-libvirt-dev
+# libvirt-dev-docker
 
 Dockerfiles for Debian Wheezy containers with libvirt-dev - for testing/CI purposes.
 
