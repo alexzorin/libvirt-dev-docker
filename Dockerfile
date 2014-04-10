@@ -1,4 +1,4 @@
-FROM findspire/wheezy
+FROM alexzorin/gitgo
 MAINTAINER Alex Zorin <alex@zor.io>
 
 RUN sed -i -e 's/ftp.fr.debian.org/http.debian.net/g' /etc/apt/sources.list
